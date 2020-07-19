@@ -26,8 +26,6 @@ A simple calendar app for scheduling your work day.
 <img src="images/bottom.png">
 
 ## Github Link 
-<link ahref>
-
-<link href="https://mapaige.github.io/work-day-scheduler/"/>
+"https://mapaige.github.io/work-day-scheduler/
       
     
