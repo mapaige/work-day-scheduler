@@ -8,7 +8,7 @@ A simple calendar app for scheduling your work day
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>Bootsrap<li>
+<li>Bootsrap</li>
 <li>Moment</li>
-<li>JQuery<li>
+<li>JQuery</li>
 <li>JavaScript</li>
