@@ -22,4 +22,4 @@ A simple calendar app for scheduling your work day.
 <li> As the day progresses the time slots will change accordinng to the time day of the day. As shown in screenshot when the time has past the slots will appear gray. The present hour will appear green.The future time slots will appear in magneta.<li>
 
 
-<img src="top.png">
+<img src="images/top.png">

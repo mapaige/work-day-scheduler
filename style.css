@@ -9,7 +9,6 @@ textarea{
   border: none;
   resize: none;
   color: #000000;
-<<<<<<< HEAD
   border-left: 1px solid rgb(179, 11, 89);
   padding: 10px;
 } 
@@ -20,18 +19,6 @@ textarea{
   color: rgb(86, 206, 86);
   border-radius: 0;
   border-bottom: 10px solid rgb(180, 172, 172);
-=======
-  border-left: 1px solid black;
-  padding: 10px;
-}
-
-.jumbotron {
-  text-align: center;
-  background-color: transparent;
-  color: black;
-  border-radius: 0;
-  border-bottom: 10px solid black;
->>>>>>> 5d7a96ed0f1745a7f3f16fdc5f2860c372cb6e85
 }
 
 .description{
@@ -46,7 +33,6 @@ textarea{
 .row {
   white-space: pre-wrap;
   height: 80px;
-<<<<<<< HEAD
   border-top: 1px solid rgb(86, 206, 86);;
 }
 
@@ -55,20 +41,10 @@ textarea{
   color: rgb(153, 10, 81);
   font-weight: 300;
   /* border-top: 1px dashed #000000; */
-=======
-  border-top: 1px solid white;;
-}
-
-.hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
->>>>>>> 5d7a96ed0f1745a7f3f16fdc5f2860c372cb6e85
 }
 
 .past {
   background-color: #d3d3d3;
-<<<<<<< HEAD
   color: rgb(201, 15, 108);
 }
 
@@ -87,26 +63,6 @@ textarea{
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: rgb(86, 206, 86);
-=======
-  color: white;
-}
-
-.present {
-  background-color: #ff6961;
-  color: white;
-}
-
-.future {
-  background-color: #77dd77;
-  color: white;
-}
-
-.saveBtn {
-  border-left: 1px solid black;
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background-color: #06AED5;
->>>>>>> 5d7a96ed0f1745a7f3f16fdc5f2860c372cb6e85
   color: white;
 }
 
@@ -114,12 +70,9 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
-<<<<<<< HEAD
 
 .lead {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 
-=======
->>>>>>> 5d7a96ed0f1745a7f3f16fdc5f2860c372cb6e85
